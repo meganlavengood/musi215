@@ -218,6 +218,7 @@ The following course outline is a general overview of how I anticipate the class
 * {wedding_date}: [Wedding arrangement project due]({wedding_url})
 * May 4 (last class): Song performances
 * {songwriting_date}: [Songwriting project due]({songwriting_url})
+* May 8: Deadline for all projects to be eligible for revisions
 * May 12: **Hard deadline** for submitting any coursework
 
 Mason Policies

@@ -218,6 +218,7 @@ The following course outline is a general overview of how I anticipate the class
 * Thu, Apr 13: [Wedding arrangement project due](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/ESezbpGaM1dKtrGedA-YX3cB0ebfepNG3qbbaLr_1sQhuA?e=ODFk9u)
 * May 4 (last class): Song performances
 * May 5–8<br/>Finals week: [Songwriting project due](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Ecu9DjxumaJHlsIwz8b-Pl4BVglynGzMpofEH-p44X7Zdg?e=yj2nXD)
+* May 8: Deadline for all projects to be eligible for revisions
 * May 12: **Hard deadline** for submitting any coursework
 
 Mason Policies
