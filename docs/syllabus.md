@@ -152,9 +152,9 @@ Smartphones, tablets, and computers are welcome in the classroom since you need 
 Grading
 -------
 
-Your grade in the course will be determined by [composition projects](/compositions) and daily homework. There are no exams. The weighting of each is as follows: 
+Your grade in the course will be determined by [composition projects](/compositions) and [daily homework](#daily-homework). There are no exams. The weighting of each is as follows: 
 
-1. Daily homework: 30 points
+1. [Daily homework](#daily-homework): 30 points
 1. [Blues](https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments): 10 points
 2. [Bebop](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments): 20 points
 4. [Songwriting](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Ecu9DjxumaJHlsIwz8b-Pl4BVglynGzMpofEH-p44X7Zdg?e=yj2nXD): 40 points
@@ -236,7 +236,6 @@ The following course outline is a general overview of how I anticipate the class
 * March 13–17: Spring break
 * May 4 (last class): Song performances
 * Wed, May 1<br/>Finals week: [Songwriting project due](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Ecu9DjxumaJHlsIwz8b-Pl4BVglynGzMpofEH-p44X7Zdg?e=yj2nXD)
-* May 8: Deadline for all projects to be eligible for revisions
 * May 12: **Hard deadline** for submitting any coursework
 
 Mason Policies

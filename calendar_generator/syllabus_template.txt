@@ -97,9 +97,7 @@ Instructor Information
 
 ### One-on-one appointments
 
-* You may drop in without an appointment during my **office hours**:
-  * Tuesdays, 1:00–2:30
-  * Wednesdays, 1:30–2:30
+* You may drop in without an appointment during my **office hours**, which are Tuesdays/Thursdays, 11:00–1:00.
 * If you like, [you can book time with me](https://meganlavengood.com/office-hours) to let me know that you'll be coming.
 * If you want to meet virtually instead of in-person, please [book in advance](https://meganlavengood.com/office-hours) so I know to be online.
 * If you are not available during my office hours, email me to schedule a special appointment time.
@@ -152,9 +150,9 @@ Smartphones, tablets, and computers are welcome in the classroom since you need 
 Grading
 -------
 
-Your grade in the course will be determined by [composition projects](/compositions) and daily homework. There are no exams. The weighting of each is as follows: 
+Your grade in the course will be determined by [composition projects](/compositions) and [daily homework](#daily-homework). There are no exams. The weighting of each is as follows: 
 
-1. Daily homework: 30 points
+1. [Daily homework](#daily-homework): 30 points
 1. [Blues]({blues_url}): 10 points
 2. [Bebop]({bebop_url}): 20 points
 4. [Songwriting]({songwriting_url}): 40 points
@@ -236,7 +234,6 @@ The following course outline is a general overview of how I anticipate the class
 * March 13–17: Spring break
 * May 4 (last class): Song performances
 * {songwriting_date}: [Songwriting project due]({songwriting_url})
-* May 8: Deadline for all projects to be eligible for revisions
 * May 12: **Hard deadline** for submitting any coursework
 
 Mason Policies
