@@ -231,9 +231,9 @@ The following course outline is a general overview of how I anticipate the class
 
 * {blues_date}: [Blues composition project due]({blues_url})
 * {bebop_date}: [Bebop composition project due]({bebop_url})
-* March 13–17: Spring break
-* May 4 (last class): Song performances
-* {songwriting_date}: [Songwriting project due]({songwriting_url})
+* March 4–8: Spring break
+* April 25 (last class): Song performances
+* **Wednesday,** May 1: [Songwriting project due]({songwriting_url})
 * May 12: **Hard deadline** for submitting any coursework
 
 Mason Policies
