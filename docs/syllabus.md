@@ -97,9 +97,7 @@ Instructor Information
 
 ### One-on-one appointments
 
-* You may drop in without an appointment during my **office hours**:
-  * Tuesdays, 1:00–2:30
-  * Wednesdays, 1:30–2:30
+* You may drop in without an appointment during my **office hours**, which are Tuesdays/Thursdays, 11:00–1:00.
 * If you like, [you can book time with me](https://meganlavengood.com/office-hours) to let me know that you'll be coming.
 * If you want to meet virtually instead of in-person, please [book in advance](https://meganlavengood.com/office-hours) so I know to be online.
 * If you are not available during my office hours, email me to schedule a special appointment time.
@@ -233,9 +231,9 @@ The following course outline is a general overview of how I anticipate the class
 
 * Thu, Feb 1: [Blues composition project due](https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments)
 * Thu, Feb 29: [Bebop composition project due](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)
-* March 13–17: Spring break
-* May 4 (last class): Song performances
-* Wed, May 1<br/>Finals week: [Songwriting project due](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Ecu9DjxumaJHlsIwz8b-Pl4BVglynGzMpofEH-p44X7Zdg?e=yj2nXD)
+* March 4–8: Spring break
+* April 25 (last class): Song performances
+* **Wednesday,** May 1: [Songwriting project due](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Ecu9DjxumaJHlsIwz8b-Pl4BVglynGzMpofEH-p44X7Zdg?e=yj2nXD)
 * May 12: **Hard deadline** for submitting any coursework
 
 Mason Policies
