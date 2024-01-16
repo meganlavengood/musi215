@@ -13,7 +13,7 @@ order: 4
   - [Community Values](#community-values)
 - [Instructor Information](#instructor-information)
   - [One-on-one appointments](#one-on-one-appointments)
-- [Tutoring](#tutoring)
+  - [Tutoring](#tutoring)
 - [Course Information](#course-information)
   - [Meetings](#meetings)
   - [Learning Objectives](#learning-objectives)
@@ -24,7 +24,7 @@ order: 4
   - [Digital submission of assignments: how to scan](#digital-submission-of-assignments-how-to-scan)
   - [Daily Homework](#daily-homework)
   - [Composition projects](#composition-projects)
-- [Late work](#late-work)
+  - [Late work](#late-work)
 - [Course Overview](#course-overview)
   - [Brief Calendar](#brief-calendar)
   - [Important Dates](#important-dates)
@@ -175,7 +175,7 @@ Letter grades are given as follows:
 Attendance
 ----------
 
-I take attendance daily. While attendance is not directly counted toward your grade, **if you want an A, you must miss no fewer than six classes.** That's about 20% of the class meetings. In other words, if you miss more than six classes, your highest possible grade is B+, regardless of the quality of your submitted work. 
+I take attendance daily. While attendance is not directly counted toward your grade, **if you want an A, you must miss no more than six classes.** That's about 20% of the class meetings. In other words, if you miss more than six classes, your highest possible grade is B+, regardless of the quality of your submitted work. 
 
 I do not distinguish between excused and unexcused absences so don't feel obligated to email me your reasons for missing class.
 
@@ -234,7 +234,7 @@ The following course outline is a general overview of how I anticipate the class
 * March 4–8: Spring break
 * April 25 (last class): Song performances
 * **Wednesday,** May 1: [Songwriting project due](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Ecu9DjxumaJHlsIwz8b-Pl4BVglynGzMpofEH-p44X7Zdg?e=yj2nXD)
-* May 12: **Hard deadline** for submitting any coursework
+* May 7: **Hard deadline** for submitting any coursework
 
 Mason Policies
 --------------
