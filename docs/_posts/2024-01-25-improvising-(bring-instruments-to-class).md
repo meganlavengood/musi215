@@ -20,4 +20,4 @@ https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues
 
 ## Notes
 
-Special guests! John Kocur (9:00) and Paul Bratcher (1:30)
+Special guest Paul Bratcher will be teaching our lesson on improvisation! I will still be in attendance too.

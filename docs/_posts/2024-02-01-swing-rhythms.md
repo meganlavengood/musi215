@@ -16,3 +16,6 @@ title:  "Thu, Feb 1"
 
 [Swing Rhythms video](https://viva.pressbooks.pub/openmusictheory/chapter/swing-rhythms/#assignments)
 
+## Notes
+
+Performance day! bring your instruments to class.

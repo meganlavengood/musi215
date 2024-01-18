@@ -234,7 +234,7 @@ The following course outline is a general overview of how I anticipate the class
 * March 4–8: Spring break
 * April 25 (last class): Song performances
 * **Wednesday,** May 1: [Songwriting project due](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Ecu9DjxumaJHlsIwz8b-Pl4BVglynGzMpofEH-p44X7Zdg?e=yj2nXD)
-* May 7: **Hard deadline** for submitting any coursework
+* {{site.hard-deadline}}: **Hard deadline** for submitting any coursework
 
 Mason Policies
 --------------

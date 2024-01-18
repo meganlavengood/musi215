@@ -24,3 +24,5 @@ https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues
 ## Notes
 
 [Upload your engraving exercise here](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EjtuCHkVt-5Eq1xx1VdLxCoBUJm0TTi4m8UCqNa1QpQQMw).
+
+Heads up: you will need a partner for the assignment over the weekend.
