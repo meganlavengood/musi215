@@ -11,15 +11,15 @@ title:  "Tue, Jan 23"
 
 ## Class topic
 
-[Blues harmony
-Blues melodies and the blues scale](https://viva.pressbooks.pub/openmusictheory/chapter/blues-harmony/
-https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/)
+[Blues harmony](https://viva.pressbooks.pub/openmusictheory/chapter/blues-harmony/)
+
+[Blues melodies and the blues scale](https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/)
 
 ## Homework assigned
 
-[Worksheet on 12-bar blues, no jazz
-Blues scales worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/blues-harmony/#assignments
-https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments)
+[Worksheet on 12-bar blues, no jazz](https://viva.pressbooks.pub/openmusictheory/chapter/blues-harmony/#assignments)
+
+[Blues scales worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments)
 
 ## Notes
 
