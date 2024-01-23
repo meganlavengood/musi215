@@ -17,9 +17,9 @@ title:  "Tue, Jan 23"
 
 ## Homework assigned
 
-[Worksheet on 12-bar blues, no jazz](https://viva.pressbooks.pub/openmusictheory/chapter/blues-harmony/#assignments)
+[Worksheet on 12-bar blues, no jazz](https://viva.pressbooks.pub/openmusictheory/chapter/blues-harmony/#assignments), first page only
 
-[Blues scales worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments)
+[Blues scales worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments), first page only
 
 ## Notes
 
