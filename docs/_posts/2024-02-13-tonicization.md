@@ -18,4 +18,5 @@ title:  "Tue, Feb 13"
 
 ## Notes
 
-Blues compositions revisions due
+1. Be prepared to perform a progression from the worksheet on piano
+2. Blues composition revisions due today (“best by” today)
