@@ -14,5 +14,5 @@ title:  "Thu, Feb 8"
 
 ## Homework assigned
 
-[Jazz voicings worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-voicings/#assignments)
+Jazz voicings worksheet—revised version emailed out. Do Part 2 only!
 
