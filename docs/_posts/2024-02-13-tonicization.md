@@ -6,7 +6,7 @@ title:  "Tue, Feb 13"
 
 ## Homework due
 
-[Jazz voicings worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-voicings/#assignments)
+Jazz voicings worksheet—revised version emailed out. Do Part 2 only!
 
 ## Class topic
 
