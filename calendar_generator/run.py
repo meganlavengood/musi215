@@ -51,8 +51,8 @@ def format_title(title):
 
 def make_links(titles, urls):
     links = []
-    titles = titles.split("\r\n")
-    urls = urls.split("\r\n")
+    titles = titles.split("\n")
+    urls = urls.split("\n")
     for pair in zip(titles, urls):
         if pair[0] and pair[1] == "<DELETE>":
             links.append(f"{pair[0]}")
