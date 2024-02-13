@@ -12,9 +12,11 @@ Jazz voicings worksheet—revised version emailed out. Do Part 2 only!
 
 [Tonicization](https://viva.pressbooks.pub/openmusictheory/chapter/tonicization/)
 
+[Here is another good resource for tonicization.](https://musictheory.pugetsound.edu/mt21c/SecondaryDominants.html)
+
 ## Homework assigned
 
-[Applied Chords worksheet worksheet B without ø7s](https://viva.pressbooks.pub/openmusictheory/chapter/tonicization/#assignments)
+[Applied Chords worksheet worksheet C Jazz/Pop focus](https://viva.pressbooks.pub/openmusictheory/chapter/tonicization/#assignments). I printed the wrong one in your homework packets, so pick up a copy of this in class or outside my office (PAB A-421—down the hall from the main music office)
 
 ## Notes
 
