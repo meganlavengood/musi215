@@ -16,6 +16,3 @@ title:  "Tue, Jan 16"
 
 [Chord symbols basics worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/chord-symbols/#assignments)
 
-## Notes
-
-You will need to do a couple video projects with partners soon. Find a partner now!

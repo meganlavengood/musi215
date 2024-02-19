@@ -13,7 +13,7 @@ order: 4
   - [Community Values](#community-values)
 - [Instructor Information](#instructor-information)
   - [One-on-one appointments](#one-on-one-appointments)
-  - [Tutoring](#tutoring)
+- [Tutoring](#tutoring)
 - [Course Information](#course-information)
   - [Meetings](#meetings)
   - [Learning Objectives](#learning-objectives)
@@ -24,7 +24,7 @@ order: 4
   - [Digital submission of assignments: how to scan](#digital-submission-of-assignments-how-to-scan)
   - [Daily Homework](#daily-homework)
   - [Composition projects](#composition-projects)
-  - [Late work](#late-work)
+- [Late work](#late-work)
 - [Course Overview](#course-overview)
   - [Brief Calendar](#brief-calendar)
   - [Important Dates](#important-dates)
@@ -195,7 +195,7 @@ I am very fussy about scanned documents. Whenever you are sending me a scan, ple
 You will have homework daily.  Homework is assigned via the [course website](/..).
 
 *   **Due dates:** Assignments are due at the beginning of class. You may <a href="mailto:mlavengo@gmu.edu?subject=MUSI%20215%20homework%20scan&body=I%20scanned%20my%20homework%20according%20to%20your%20scanning%20instructions%20and%20it's%20attached%20here%20as%20a%20single%20PDF%20file.%0D%0A%0D%0Ahttps%3A%2F%2Fmeganlavengood.com%2Fhow-to-scan%2F">email me the homework</a> instead, even if you are not going to be in class, provided you [follow these guidelines](https://meganlavengood.com/how-to-scan/). 
-* **Late work:** Because of the quick pace and accumulative design of the course, I encourage you to stick to the course schedule. Your three lowest homework grades will be dropped; this is intended to cover your “off days.” If you must turn something in late, I ask that you make arrangements with me in advance (preferably via email since I tend to forget these things). Otherwise, I typically do not accept late work if I have already graded your peers’ homework.
+* **Late work:** Because of the quick pace and accumulative design of the course, I encourage you to stick to the course schedule. Your three lowest homework grades will be dropped; this is intended to cover your “off days.” If you must turn something in late, I ask that you make arrangements with me in advance (preferably via email since I tend to forget these things). Otherwise, I typically do not accept late work if I have already graded your peers’ homework. 
 * **Grading:** I grade homework holistically on a from  1 to 10.
 	* If I think you made an honest attempt at the work, you will get a relatively high grade of 8, 9, or 10. 
 	* If you did not do the work or show very poor comprehension of it, your grade will be lower.
@@ -234,7 +234,7 @@ The following course outline is a general overview of how I anticipate the class
 * March 4–8: Spring break
 * April 25 (last class): Song performances
 * **Wednesday,** May 1: [Songwriting project due](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Ecu9DjxumaJHlsIwz8b-Pl4BVglynGzMpofEH-p44X7Zdg?e=yj2nXD)
-* {{site.hard-deadline}}: **Hard deadline** for submitting any coursework
+* {site.hard-deadline}: **Hard deadline** for submitting any coursework
 
 Mason Policies
 --------------

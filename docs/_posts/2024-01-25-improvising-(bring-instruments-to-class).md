@@ -6,13 +6,13 @@ title:  "Thu, Jan 25"
 
 ## Homework due
 
-[Worksheet on 12-bar blues, no jazz
-Blues scales worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/blues-harmony/#assignments
-https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments)
+[Worksheet on 12-bar blues, no jazz [first page only]](https://viva.pressbooks.pub/openmusictheory/chapter/blues-harmony/#assignments)
+
+[Blues scales worksheet [first page only]](https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments)
 
 ## Class topic
 
-[Improvising (bring instruments to class)](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EdVuFJRMGMNEnfwrLHbIotsBqBQGxACmANLPsxNTMxEgzA?e=2RZ6ev)
+Improvising (bring instruments to class)
 
 ## Homework assigned
 

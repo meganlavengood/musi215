@@ -6,9 +6,9 @@ title:  "Tue, Feb 27"
 
 ## Homework due
 
-[Substitutions
-Embellishing chords](https://viva.pressbooks.pub/openmusictheory/chapter/substitutions/#assignments
-https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)
+[Substitutions](https://viva.pressbooks.pub/openmusictheory/chapter/substitutions/#assignments)
+
+[Embellishing chords](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)
 
 ## Class topic
 

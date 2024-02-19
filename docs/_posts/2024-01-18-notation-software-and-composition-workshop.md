@@ -14,8 +14,7 @@ Notation software and composition workshop
 
 ## Homework assigned
 
-[Music Engraving Exercise
-](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/ETaWywkMF9tOrGv_MXkEzOEB9r0dGKLG8LMnYXjBVca5rg?e=5ZDN4b)
+[Music Engraving Exercise](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/ETaWywkMF9tOrGv_MXkEzOEB9r0dGKLG8LMnYXjBVca5rg?e=5ZDN4b)
 
 ## Notes
 
