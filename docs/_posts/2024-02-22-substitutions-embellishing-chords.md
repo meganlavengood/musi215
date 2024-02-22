@@ -12,11 +12,11 @@ title:  "Thu, Feb 22"
 
 [Substitutions](https://viva.pressbooks.pub/openmusictheory/chapter/substitutions/)
 
-[Embellishing chords](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/)
+~~[Embellishing chords](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/)~~
 
 ## Homework assigned
 
 [Substitutions](https://viva.pressbooks.pub/openmusictheory/chapter/substitutions/#assignments)
 
-[Embellishing chords](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)
+~~[Embellishing chords](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)~~
 

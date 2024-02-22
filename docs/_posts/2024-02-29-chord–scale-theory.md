@@ -6,7 +6,7 @@ title:  "Thu, Feb 29"
 
 ## Homework due
 
-[Bebop composition project](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)
+[Bebop composition project](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments). Note that you do not need to do the CTº7 embellishing chord since we did not discuss it.
 
 ## Class topic
 
@@ -14,5 +14,4 @@ title:  "Thu, Feb 29"
 
 ## Homework assigned
 
-[Bebop composition project](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)
-
+None—enjoy spring break!
