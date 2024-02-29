@@ -8,6 +8,8 @@ title:  "Thu, Feb 29"
 
 [Bebop composition project](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments). Note that you do not need to do the CTº7 embellishing chord since we did not discuss it.
 
+**Submit on Blackboard.**
+
 ## Class topic
 
 [Chord–scale theory ](https://viva.pressbooks.pub/openmusictheory/chapter/chord-scale-theory/)

@@ -8,6 +8,8 @@ title:  "Tue, Mar 12"
 
 [Optional bebop composition revisions](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)
 
+**Submit on Blackboard.**
+
 ## Class topic
 
 [Melody and phrasing](https://viva.pressbooks.pub/openmusictheory/chapter/melody-and-phrasing/)

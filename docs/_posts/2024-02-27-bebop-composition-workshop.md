@@ -18,6 +18,8 @@ Bebop composition workshop
 
 [Bebop composition project](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments). Note that you do not need to do the CTº7 embellishing chord since we did not discuss it.
 
+**Submit on Blackboard.**
+
 ## Notes
 
 bring laptops today!
