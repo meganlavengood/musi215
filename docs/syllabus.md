@@ -13,7 +13,7 @@ order: 4
   - [Community Values](#community-values)
 - [Instructor Information](#instructor-information)
   - [One-on-one appointments](#one-on-one-appointments)
-- [Tutoring](#tutoring)
+  - [Tutoring](#tutoring)
 - [Course Information](#course-information)
   - [Meetings](#meetings)
   - [Learning Objectives](#learning-objectives)
@@ -24,7 +24,7 @@ order: 4
   - [Digital submission of assignments: how to scan](#digital-submission-of-assignments-how-to-scan)
   - [Daily Homework](#daily-homework)
   - [Composition projects](#composition-projects)
-- [Late work](#late-work)
+  - [Late work](#late-work)
 - [Course Overview](#course-overview)
   - [Brief Calendar](#brief-calendar)
   - [Important Dates](#important-dates)
@@ -234,7 +234,7 @@ The following course outline is a general overview of how I anticipate the class
 * March 4–8: Spring break
 * April 25 (last class): Song performances
 * **Wednesday,** May 1: [Songwriting project due](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Ecu9DjxumaJHlsIwz8b-Pl4BVglynGzMpofEH-p44X7Zdg?e=yj2nXD)
-* {site.hard-deadline}: **Hard deadline** for submitting any coursework
+* {{site.hard-deadline}}: **Hard deadline** for submitting any coursework
 
 Mason Policies
 --------------
