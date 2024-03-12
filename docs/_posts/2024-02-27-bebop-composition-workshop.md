@@ -8,7 +8,7 @@ title:  "Tue, Feb 27"
 
 [Substitutions](https://viva.pressbooks.pub/openmusictheory/chapter/substitutions/#assignments)
 
-~~[Embellishing chords](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)~~
+[Embellishing chords](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)
 
 ## Class topic
 
@@ -16,9 +16,7 @@ Bebop composition workshop
 
 ## Homework assigned
 
-[Bebop composition project](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments). Note that you do not need to do the CTº7 embellishing chord since we did not discuss it.
-
-**Submit on Blackboard.**
+[Bebop composition project](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)
 
 ## Notes
 

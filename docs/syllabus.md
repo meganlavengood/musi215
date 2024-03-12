@@ -111,10 +111,10 @@ Course Information
 
 ### Meetings
 
-There are two sections, both of which meet on Tuesdays/Thursdays in MTB 2018:
+There are two sections, both of which meet on Tuesdays/Thursdays:
 
-* 9:00–10:15 AM
-* 1:30–2:45 PM
+* 9:00–10:15 AM, in MTB 1023
+* 1:30–2:45 PM, in MTB 2018
 
 If you have to miss class, you are welcome to attend the other class if that time works better for you. (But please regularly attend the class you're reigstered for!)
 
@@ -207,7 +207,7 @@ You will have homework daily.  Homework is assigned via the [course website](/.
 *   **About the projects:** Model compositions are used to demonstrate your understanding of pop and jazz theory. [View project instructions.](/compositions)
 *   **Prep work:** Projects have preparatory assignments that are designed to help you succeed in your graded submission. These assignments are especially important to complete, even though they are still not counted toward your final grade.
 *   **Submitting, revising, and earning a grade:** Projects are always submitted on Blackboard. Each project will be graded via a rubric on Blackboard; next, you are given the option to revise or expand as directed and submit a second version. The two grades are averaged for your total grade. All revisions are given a “best by” date, one week after the original due date. If you wait longer than this to submit, that’s okay, but I might not grade it promptly.
-*   **Late work:** If you need to submit a project late, discuss this with me, ideally before the due date. Be aware that I may not be able to give feedback for revisions in a timely manner if you submit late, especially if we didn’t discuss in advance.
+*   **Late work:** If you need to submit a project late, discuss this with me, ideally before the due date. Be aware that I may not be able to give feedback for revisions in a timely manner if you submit late, especially if we didn’t discuss in advance. Other than this there is no penalty for submitting a composition late.
 *   **Composition creativity and following instructions (or not):** I give a lot of restrictions on composition assignments because these are meant to test your ability to apply theory concepts, rather than to test your creativity. If you are excited to compose and want to do things more in your own way instead, that’s great and I look forward to hearing it! _But I need you to still fulfill the requirements of the assignment._ So if you choose to deliberately do something other than what I’ve asked you to do, submit additional commentary in which you self-evaluate against the grading rubric. Explain how you have achieved each of the objectives of the assignment.
 
 ### Late work
