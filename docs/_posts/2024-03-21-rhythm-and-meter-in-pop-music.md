@@ -10,11 +10,11 @@ title:  "Thu, Mar 21"
 
 ## Class topic
 
-[Rhythm and Meter in Pop Music](https://viva.pressbooks.pub/openmusictheory/chapter/rhythm-and-meter-in-pop-music/)
+~~[Rhythm and Meter in Pop Music](https://viva.pressbooks.pub/openmusictheory/chapter/rhythm-and-meter-in-pop-music/)~~
 
 ## Homework assigned
 
-[Transcribing rhythms](https://viva.pressbooks.pub/openmusictheory/chapter/rhythm-and-meter-in-pop-music/#assignments)
+~~[Transcribing rhythms](https://viva.pressbooks.pub/openmusictheory/chapter/rhythm-and-meter-in-pop-music/#assignments)~~
 
 ## Notes
 

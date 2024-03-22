@@ -6,7 +6,7 @@ title:  "Tue, Mar 26"
 
 ## Homework due
 
-[Transcribing rhythms](https://viva.pressbooks.pub/openmusictheory/chapter/rhythm-and-meter-in-pop-music/#assignments)
+~~[Transcribing rhythms](https://viva.pressbooks.pub/openmusictheory/chapter/rhythm-and-meter-in-pop-music/#assignments)~~
 
 ## Class topic
 
