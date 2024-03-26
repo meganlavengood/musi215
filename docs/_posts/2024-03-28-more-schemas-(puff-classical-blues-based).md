@@ -6,7 +6,10 @@ title:  "Thu, Mar 28"
 
 ## Homework due
 
-[Variations on 4-chord schemas](https://viva.pressbooks.pub/openmusictheory/chapter/4-chord-schemas/#assignments)
+Choose **either** #1 or #2 (whichever feels more appropriate for your abilities):
+
+1. [Identifying 4-chord schemas](https://viva.pressbooks.pub/openmusictheory/chapter/4-chord-schemas/#assignments) (easier)
+2. [Variations on 4-chord schemas](https://viva.pressbooks.pub/openmusictheory/chapter/4-chord-schemas/#assignments) (harder)
 
 ## Class topic
 
