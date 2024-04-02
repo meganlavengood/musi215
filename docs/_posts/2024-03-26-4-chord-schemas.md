@@ -6,7 +6,7 @@ title:  "Tue, Mar 26"
 
 ## Homework due
 
-~~[Transcribing rhythms](https://viva.pressbooks.pub/openmusictheory/chapter/rhythm-and-meter-in-pop-music/#assignments)~~
+[Transcribing rhythms](https://viva.pressbooks.pub/openmusictheory/chapter/rhythm-and-meter-in-pop-music/#assignments)
 
 ## Class topic
 
@@ -14,10 +14,7 @@ title:  "Tue, Mar 26"
 
 ## Homework assigned
 
-Choose either #1 or #2 (whichever feels more appropriate for your abilities):
-
-1. [Identifying 4-chord schemas](https://viva.pressbooks.pub/openmusictheory/chapter/4-chord-schemas/#assignments) (easier)
-2. [Variations on 4-chord schemas](https://viva.pressbooks.pub/openmusictheory/chapter/4-chord-schemas/#assignments) (harder)
+[Either 1) Identifying Four-Chord Schemas or 2) Variations on Four-Chord Schemas (choose one)](https://viva.pressbooks.pub/openmusictheory/chapter/4-chord-schemas/#assignments)
 
 ## Notes
 
