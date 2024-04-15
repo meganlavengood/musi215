@@ -10,7 +10,7 @@ title:  "Thu, Apr 18"
 
 ## Class topic
 
-[Text Setting in Pop Music](http://martiandances.com/text.pdf)
+[Text Setting in Pop Music](https://pressbooks.macalester.digital/multimodalmusicianship/chapter/text-setting/)
 
 ## Homework assigned
 
@@ -20,4 +20,4 @@ title:  "Thu, Apr 18"
 
 [Upload an image of your analysis here](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EjtuCHkVt-5Eq1xx1VdLxCoBUJm0TTi4m8UCqNa1QpQQMw). We will use the discussion questions for in-class discussion (i.e., you won’t turn that in).
 
-[Here is another resource on text setting](https://pressbooks.macalester.digital/multimodalmusicianship/chapter/text-setting/).
+[Here is another resource on text setting](https://martiandances.com/text/).
