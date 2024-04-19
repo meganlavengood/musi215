@@ -14,7 +14,7 @@ Songwriting project workshop
 
 ## Homework assigned
 
-[Songwriting composition project](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Ecu9DjxumaJHlsIwz8b-Pl4BVglynGzMpofEH-p44X7Zdg?e=yj2nXD)
+[Songwriting composition project](/compositions/final)
 
 ## Notes
 

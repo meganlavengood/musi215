@@ -6,7 +6,7 @@ title:  "Thu, Apr 25"
 
 ## Homework due
 
-[None—work on your compositions!](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Ecu9DjxumaJHlsIwz8b-Pl4BVglynGzMpofEH-p44X7Zdg?e=yj2nXD)
+[None—work on your compositions!](/compositions/final)
 
 ## Class topic
 
@@ -14,7 +14,7 @@ Performance day
 
 ## Homework assigned
 
-[Songwriting composition project](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Ecu9DjxumaJHlsIwz8b-Pl4BVglynGzMpofEH-p44X7Zdg?e=yj2nXD)
+[Songwriting composition project](/compositions/final)
 
 ## Notes
 

@@ -8,30 +8,30 @@ order: 4
 
 ## Table of Contents
 
-- [Inclusivity in Learning](#inclusivity-in-learning)
-  - [Content warning](#content-warning)
-  - [Community Values](#community-values)
-- [Instructor Information](#instructor-information)
-  - [One-on-one appointments](#one-on-one-appointments)
-  - [Tutoring](#tutoring)
-- [Course Information](#course-information)
-  - [Meetings](#meetings)
-  - [Learning Objectives](#learning-objectives)
-  - [Course Materials](#course-materials)
-- [Grading](#grading)
-- [Attendance](#attendance)
-- [Assignments](#assignments)
-  - [Digital submission of assignments: how to scan](#digital-submission-of-assignments-how-to-scan)
-  - [Daily Homework](#daily-homework)
-  - [Composition projects](#composition-projects)
-  - [Late work](#late-work)
-- [Course Overview](#course-overview)
-  - [Brief Calendar](#brief-calendar)
-  - [Important Dates](#important-dates)
-- [Mason Policies](#mason-policies)
-  - [Honor Code](#honor-code)
-  - [Title IX](#title-ix)
-  - [Privacy](#privacy)
+1. [Inclusivity in Learning](#inclusivity-in-learning)
+   1. [Content warning](#content-warning)
+   2. [Community Values](#community-values)
+2. [Instructor Information](#instructor-information)
+   1. [One-on-one appointments](#one-on-one-appointments)
+   2. [Tutoring](#tutoring)
+3. [Course Information](#course-information)
+   1. [Meetings](#meetings)
+   2. [Learning Objectives](#learning-objectives)
+   3. [Course Materials](#course-materials)
+4. [Grading](#grading)
+5. [Attendance](#attendance)
+6. [Assignments](#assignments)
+   1. [Digital submission of assignments: how to scan](#digital-submission-of-assignments-how-to-scan)
+   2. [Daily Homework](#daily-homework)
+   3. [Composition projects](#composition-projects)
+   4. [Late work](#late-work)
+7. [Course Overview](#course-overview)
+   1. [Brief Calendar](#brief-calendar)
+   2. [Important Dates](#important-dates)
+8. [Mason Policies](#mason-policies)
+   1. [Honor Code](#honor-code)
+   2. [Title IX](#title-ix)
+   3. [Privacy](#privacy)
 
 ---
 
@@ -90,11 +90,11 @@ While I will do my best to show up for and with other, I understand that there m
 Instructor Information
 ----------------------
 
-- **Name:** Dr. Lavengood (she/her), pronounced “LAY-ven-good”  
-- **Email:** mlavengo@gmu.edu  
-- **Phone/text:** 703-993-6272 (this is a work number so don't worry about intruding)
-- **Office:** deLaski Performing Arts Building (PAB) A-421   
-- **Communication:** I will answer emails within 24 hours. Texting 703-993-6272 will send me a message on my computer, so I can respond when I am at my computer.
+**Name:** Dr. Lavengood (she/her), pronounced “LAY-ven-good”  
+**Email:** mlavengo@gmu.edu  
+**Phone/text:** 703-993-6272 (this is a work number so don't worry about intruding)
+**Office:** deLaski Performing Arts Building (PAB) A-421   
+**Communication:** I will answer emails within 24 hours. I am also happy to use Teams to chat with you in a channel or one-on-one.
 
 ### One-on-one appointments
 
@@ -156,7 +156,7 @@ Your grade in the course will be determined by [composition projects](/compositi
 1. [Daily homework](#daily-homework): 30 points
 1. [Blues](https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments): 10 points
 2. [Bebop](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments): 20 points
-4. [Songwriting](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Ecu9DjxumaJHlsIwz8b-Pl4BVglynGzMpofEH-p44X7Zdg?e=yj2nXD): 40 points
+4. [Songwriting](/compositions/final): 40 points
 
 Letter grades are given as follows:
 
@@ -234,7 +234,7 @@ The following course outline is a general overview of how I anticipate the class
 * Thu, Feb 29: [Bebop composition project due](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)
 * March 4–8: Spring break
 * April 25 (last class): Song performances
-* **Wednesday,** May 1: [Songwriting project due](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Ecu9DjxumaJHlsIwz8b-Pl4BVglynGzMpofEH-p44X7Zdg?e=yj2nXD)
+* **Wednesday,** May 1: [Songwriting project due](/compositions/final)
 * {{site.hard-deadline}}: **Hard deadline** for submitting any coursework
 
 Mason Policies

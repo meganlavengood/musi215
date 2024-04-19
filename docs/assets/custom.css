@@ -179,7 +179,7 @@ html {
 	border-bottom: 2px solid lightgray;
 }
 
-.card h2 {
+.card:not(.toc) h2 {
 	font-size: 1.25rem;
 }
 
@@ -299,10 +299,48 @@ a.button-fill:hover {
 *
 * TOC */
 
-#table-of-contents + ol li a {
+.toc {
+	width: fit-content;
+	margin: 2em;
+}
+
+.toc ol li a {
 	color: black;
 }
-#table-of-contents + ol li a:hover {
+.toc ol li a {
 	text-decoration: underline;
 	text-decoration-color: var(--accent);
+}
+.toc ol li a:hover {
+	color: var(--accent);
+}
+
+.toc h2 {
+	margin-top: unset;
+}
+
+/* 
+* 
+* highlight box */
+
+.box {
+	padding: 1em;
+	background-color: var(--footer-gray);
+}
+
+table {
+	width: fit-content;
+	margin: 0 auto;
+}
+
+table tfoot td {
+background-color: #f0f0f0;
+border: 1px solid #dedede;
+border-top-color: #c9c9c9;
+}
+
+.hover 
+{
+	background: white;
+  cursor: pointer;
 }
