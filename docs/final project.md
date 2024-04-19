@@ -28,7 +28,7 @@ For your final project, you will write a pop song in verse-chorus form.
 -   **Form**: Your verse-chorus song should include an intro, verse, chorus, and bridge. Arrange these sections according to [norms of verse-chorus songs](https://viva.pressbooks.pub/openmusictheory/chapter/verse-chorus-form/). Other sections are optional.
 -   **Harmony**: Use two contrasting schemas of your choosing from [the list given on the textbook](https://viva.pressbooks.pub/openmusictheory/chapter/intro-to-pop-schemas/). Feel free to incorporate alterations to the schemas, provided you explain them in your analysis.
 -   **Lyrics**: Your lyrics may be newly-written or recycled from another source, but you must cite the source and have instructor approval. Lyrics should be mainly in English so text setting can be evaluated. Please make your lyrics appropriate for an in-class performance. *Note: you should **not** be re-using melodic or harmonic material from the same source as your lyrics.*
--   **Analysis**: Fill in the [Songwriting Project: Analysis worksheet](docs/file-uploads/songwriting-analysis.pdf).
+-   **Analysis**: Fill in the [Songwriting Project: Analysis worksheet](/file-uploads/songwriting-analysis.pdf).
 
 For extra credit, you may include extra instrumental/vocal parts (e.g., bass guitar, drums, etc.) and/or a recording. Some extra credit will be given for this as long as the rest of the requirements of the project are met. The amount of extra credit is at the discretion of the instructor, not exceeding 10% of the project grade.
 
@@ -56,7 +56,7 @@ All group members will receive the same grade.
 
 Your submission should have:
 
--   A .**pdf** of your [analysis worksheet](/files/songwriting-analysis.pdf).
+-   A .**pdf** of your [analysis worksheet](/file-uploads/songwriting-analysis.pdf).
 -   An .**mp3** or .**wav** file of your song (mp3 is not required if you only write for voice + keyboard/guitar)
 -   A .**pdf** of your score, if you have one. Scores should have notated melodies/lyrics and chords (as chord symbols or written-out).
 
