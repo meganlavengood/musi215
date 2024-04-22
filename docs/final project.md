@@ -205,9 +205,10 @@ You may work on this however you choose, of course, but for those students who p
 <div class="card" markdown="1">
 
 1. Begin writing lyrics for the song. You may use any subject matter suitable for class performance; humor and even parody are acceptable. If you're writing something original, it is sometimes helpful to choose a lyrical hook, such as a pun or specific turn of phrase (“a hard day’s night,” “un-break my heart,” etc.) that you can build the rest of the lyrics around. Consider writing lyrics for the chorus first, then creating lyrics for the first verse (and optional prechorus) that lead up to the chorus.
-2. Set your lyrics to chords and melody. There are multiple approaches to this; you may find that choosing chords will help you determine an effective melody, or vice versa. 3. Remember to incorporate two schemas from the textbook. 4. Note that specific genres sometimes have their own conventions regarding melodic range, harmonic rhythm, etc., so listening to and transcribing other songs in your selected genre can provide help and inspiration. 5. Write down your harmonies as chord symbols. 3. Play through your chords and make sure the sound matches the symbols wrote.
-3. Fill out remaining lyrics depending on the form you have chosen. Continue writing your verses.
-4. Write a bridge which contrasts the verse and chorus; the bridge may be instrumental or it may include lyrics, or can even have a section of each.
-5. Create your score or audio file. If writing a score, notate your melody with lyrics and write chord symbols in above the melody.
+2. Set your lyrics to chords and melody. There are multiple approaches to this; you may find that choosing chords will help you determine an effective melody, or vice versa. Remember to incorporate two schemas from the textbook. Note that specific genres sometimes have their own conventions regarding melodic range, harmonic rhythm, etc., so listening to and transcribing other songs in your selected genre can provide help and inspiration. Write down your harmonies as chord symbols. 
+3. Play through your chords and make sure the sound matches the symbols wrote.
+4. Fill out remaining lyrics depending on the form you have chosen. Continue writing your verses.
+5. Write a bridge which contrasts the verse and chorus; the bridge may be instrumental or it may include lyrics, or can even have a section of each.
+6. Create your score or audio file. If writing a score, notate your melody with lyrics and write chord symbols in above the melody.
 
 </div>
