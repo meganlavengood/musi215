@@ -15,6 +15,7 @@ order: 1
 5. [Performances](#performances)
 6. [Point breakdown](#point-breakdown)
 7. [Suggested process](#suggested-process)
+8. [Songwriting Project Museum](#songwriting-project-museum)
 </div>
 
 For your final project, you will write a pop song in verse-chorus form.
@@ -210,5 +211,14 @@ You may work on this however you choose, of course, but for those students who p
 4. Fill out remaining lyrics depending on the form you have chosen. Continue writing your verses.
 5. Write a bridge which contrasts the verse and chorus; the bridge may be instrumental or it may include lyrics, or can even have a section of each.
 6. Create your score or audio file. If writing a score, notate your melody with lyrics and write chord symbols in above the melody.
-
 </div>
+
+## Songwriting Project Museum
+
+Students can opt to share their song in the Project Museum! 
+
+<p style="text-align:center;">
+  <a class="button button-fill button-small" href="https://georgemasonu.padlet.org/mlavengo/submission-request/o4ZnXBnxMLdlXNda" style="display:inline-block;width:fit-content;" target="_blank">Add your song</a>
+  </p>
+
+<div class="padlet-embed" style="border-radius:5px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4;box-shadow:var(--preset-box-shadow);"><p style="padding:0;margin:0"><iframe src="https://georgemasonu.padlet.org/embed/btb2s5c4euu1sz7l" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></p><div style="display:flex;align-items:center;justify-content:end;margin:0;height:28px;background-color:#570D2F;"><a href="https://padlet.com?ref=embed" style="display:block;flex-grow:0;margin:0;border:none;text-decoration:none;color:rgb(255,255,255,.3);" target="_blank">Open in new window</a>&ensp;</div></div>

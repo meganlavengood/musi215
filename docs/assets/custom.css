@@ -196,6 +196,11 @@ a.button {
 	text-align: center;
 }
 
+a.button-small {
+	font-size: 1rem;
+	padding: .5em;
+}
+
 a.button-outline {
 	border: 2px solid var(--accent-dark);
 	border-radius: 5px;
